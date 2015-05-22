@@ -1,0 +1,9 @@
+{
+  "name": "gulp-program library",
+  "version": "0.1.0",
+  "dependencies": {
+    "jquery": "1.11.3",
+    "angularjs": "1.2.28"
+  },
+  "description": "gulp-program library"
+}
